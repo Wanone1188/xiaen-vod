@@ -1,0 +1,10 @@
+{
+  "name": "夏恩VOD合集",
+  "description": "自用聚合VOD资源站",
+  "avatar": "https://cdn.jsdelivr.net/gh/Wanone1188/xiaen-vod/avatar.png",
+  "author": "夏恩",
+  "items": [
+    "https://raw.githubusercontent.com/Wanone1188/xiaen-vod/main/1080%E8%B5%84%E6%BA%90.js",
+    "https://raw.githubusercontent.com/Wanone1188/xiaen-vod/main/155%E8%B5%84%E6%BA%90.js"
+  ]
+}
